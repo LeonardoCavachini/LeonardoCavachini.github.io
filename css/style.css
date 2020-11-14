@@ -79,12 +79,12 @@ main {
     flex-direction: column;
     position: absolute;
     margin-top: 65%;
-    margin-left: 50%;
+    margin-left: 45%;
 }
 .footer img {
     width: 5%;
 }
 .link-footer {
     display: inline-block;
-    margin-left: 6%;
+    margin-left: 9%;
 }
